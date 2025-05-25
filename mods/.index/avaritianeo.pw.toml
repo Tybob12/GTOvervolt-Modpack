@@ -1,0 +1,16 @@
+filename = 'AvaritiaNeo-1.20.1-1.0.2.jar'
+name = 'AvaritiaNeo'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4ed7029f087844ec4b635dfe3662f1790e8dc93a991b5034ee35039d3dba5f87080437ac6d88be59c7619c9253ed9f43efdce45b661ff1423329207e22dac174'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j5gjLUvf/versions/5g8fWyP5/AvaritiaNeo-1.20.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'j5gjLUvf'
+version = '5g8fWyP5'
